@@ -15,7 +15,8 @@ Motivational Statement:
 The main purpose of this analysis was to understand the efficiency of social media marketing strategies utilized by these 3 universities on the twitter platform and how it impacts the reputation of the respective colleges.
 
 Analysis Methods Used: 
-The data extraction has been done using the Twitter API, a developer account was created to extract the tweets for the 3 universities. This analysis has been conducted using several python libraries and modules which are as follows:
+The data extraction has been done using the Twitter API, a developer account was created to extract the tweets for the 3 universities. 
+This analysis has been conducted using several python libraries and modules which are as follows:
 1.	Tweepy
 2.	Numpy
 3.	Pandas
@@ -41,7 +42,7 @@ Each extracted tweet is known as a tweet object, and it has a set of features as
 7.	tweet.favorite_count - gives the number of likes given to a tweet
 
 Analysis Performed:
-The analysis done on the tweets extracted for Fordham University, New York University and Columbia University is as follows:
+The analysis done on the tweets extracted for Fordham University, New York University and Columbia University:
 a.	Finding the 30 most commonly used words on their twitter accounts
 With the help of this we can analyze the words which are most frequently used on their account and determine the latest topic being talked about.
 
