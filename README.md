@@ -43,6 +43,7 @@ Each extracted tweet is known as a tweet object, and it has a set of features as
 
 Analysis Performed:
 The analysis done on the tweets extracted for Fordham University, New York University and Columbia University:
+
 a.	Finding the 30 most commonly used words on their twitter accounts
 With the help of this we can analyze the words which are most frequently used on their account and determine the latest topic being talked about.
 
