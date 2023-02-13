@@ -69,15 +69,25 @@ The follower information was displayed as a set of the following parameters:
 
 Analysis & Observations:
 •	Fordham University twitter account has 23.3K tweets
+
 •	Columbia University twitter account has 33.4K tweets
+
 •	New York University twitter account has 24.6K tweets 
+
 •	Most commonly used word in Fordham tweets is about Tania Tetlow the new President
+
 •	Most commonly used word in NYU tweets is about their 2 schools NYU Tandon and NYU Law
+
 •	Most commonly used word in Columbia tweets is Columbia which is the name of the university
+
 •	Data has been extracted in 3 formats, out of them the dataframe format is the most useful to perform data analysis on Jupyter notebook such as working on sentiment analysis & wordcloud
+
 •	The data format in csv can also be very useful if the analysis is performed using excel
+
 •	Columbia University’s twitter  account has the maximum number of followers, followed by NYU and then Fordham University
+
 •	This count can be based on both the prestige of the college as well as the content posted on the twitter account
+
 •	Columbia university tweets receive the maximum retweets and likes
 
 Business Recommendations:
