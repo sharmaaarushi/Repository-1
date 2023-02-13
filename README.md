@@ -5,6 +5,7 @@ EXPLORATORY DATA ANALYSIS ON TWITTER API DATA USING PYTHON FOR TOP 3 UNIVERSITIE
 
 Abstract: 
 New York city has several good universities, however there are 3 top universities in NYC which garner the maximum attention from domestic and international students. Our aim here is to do an exploratory data analysis on the tweets posted on the original account of these universities. We will understand the kind of impact that these tweets have on the popularity of the 3 universities.
+
 The following 3 universities have been considered for this analysis:
 1.	Fordham University
 2.	New York University
@@ -38,6 +39,7 @@ Each extracted tweet is known as a tweet object, and it has a set of features as
 5.	tweet.source - gives the source of origin for tweet
 6.	tweet.retweet_count - gives the count of number of retweets for a tweet
 7.	tweet.favorite_count - gives the number of likes given to a tweet
+
 Analysis Performed:
 The analysis done on the tweets extracted for Fordham University, New York University and Columbia University is as follows:
 a.	Finding the 30 most commonly used words on their twitter accounts
